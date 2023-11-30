@@ -1,0 +1,10 @@
+release/counter.o
+release/main.o
+release/randomnumber.o
+release/db_js.o
+release/main_qml.o
+release/qmlcache_loader.o
+release/qrc_qml_qmlcache.o
+release/qrc_resources.o
+release/moc_counter.o
+release/moc_randomnumber.o
